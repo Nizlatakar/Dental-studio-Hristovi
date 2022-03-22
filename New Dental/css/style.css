@@ -1,0 +1,194 @@
+.body{
+
+}/* не работи*/
+
+body{
+    margin: 0px;
+    background-color: #0000ff;
+    font-size: 18px;
+
+    padding-top: 50px;
+}
+*{
+    box-sizing: border-box;
+}
+
+#thumbs {
+   
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 20px;
+    height: 20px;
+    margin-left: -45px;
+    margin-right: 15px;
+}
+
+.call{
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:#4ab5f7; 
+
+}
+.call img{
+  width: 26px;
+
+}
+
+
+.phone {
+    float: left;
+    height: 26px;
+
+    color: #0B132A;
+    background-color: white;
+    border: none;
+    border-radius: 49%;
+}
+
+
+.item{
+
+}
+
+
+.logo{
+
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 100px;
+
+}
+.collapse a:hover{
+    color:  whitesmoke;
+    border-radius: 5px;
+    border: 2px solid black;
+    
+}
+.workhours{
+
+}
+
+ /*SECTION CLOCK */
+ #ct5{
+font-size: 20px;
+display: inline-block;
+ }
+
+
+/*--SECTION Services--
+*/
+
+
+
+.block{
+background-color: #4ab5f7;
+display: block;
+padding: 5%;
+border: 5px solid black;
+border-radius: 10px;
+}
+.table{
+    
+    
+}
+
+
+.box-wrapper {
+display: inline-grid;
+border: 5px solid black;
+border-radius: 10px;
+margin: 10px;
+padding: 5px;
+word-wrap: break-word;
+width: 260px;
+height: 460px;
+font-size: 14px;
+
+
+}
+.box-wrapper p{
+font-size: 12px;
+
+
+}
+.box-wrapper ul{
+    width: 250px;
+
+
+    
+}
+
+
+.box-wrapper li{
+ font-size: 12px;  
+}
+
+.box-wrapper h2{
+    /*font-size: 16px;*/
+    font-weight: 900;
+}
+
+
+.box-wrapper p{
+word-wrap: break-word;
+font-size: 12px;
+}
+
+
+.vectors {
+    margin-left: 70px;
+    height: 100px;
+    width: 100px;
+}
+/*section INFO*/
+.edu{
+padding: 10px;
+border: 5px #0000e6;
+border-radius: 10px;
+}
+.bio{
+
+display: inline-block;
+height: 500px;
+max-width: auto;   
+font-size: 22px;
+border: 5px ;
+border-radius: 10px;
+}
+.cv{
+
+height: 440px;
+float: left;
+margin: 10px;
+border-radius: 10px;
+border: 5px solid black;
+
+}
+
+ /*SECTION CONTACTS */
+ #map{
+height: 180px;
+ }
+
+
+/*FOOTER*/
+
+.contacts span{
+display: block;
+font-size: 20px;
+background-color:#4ab5f7 ;
+border-radius: 10px;
+border: 2px solid black;
+
+}
+
+.contacts li{
+margin-left: 15px;
+margin-bottom: 15px;
+font-size: 20px;
+}
